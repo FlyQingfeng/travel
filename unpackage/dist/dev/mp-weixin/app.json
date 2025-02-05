@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/Home/index",
+    "pages/Orders/index",
+    "pages/Mine/index",
+    "pages/Earnings/index"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#333333",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/Earnings/index",
+        "text": "收益",
+        "iconPath": "static/tabbar/normal/收益.png",
+        "selectedIconPath": "static/tabbar/activated/收益active.png"
+      },
+      {
+        "pagePath": "pages/Home/index",
+        "text": "首页",
+        "iconPath": "static/tabbar/normal/首页.png",
+        "selectedIconPath": "static/tabbar/activated/首页active.png"
+      },
+      {
+        "pagePath": "pages/Orders/index",
+        "text": "订单",
+        "iconPath": "static/tabbar/normal/订单.png",
+        "selectedIconPath": "static/tabbar/activated/订单active.png"
+      },
+      {
+        "pagePath": "pages/Mine/index",
+        "text": "我的",
+        "iconPath": "static/tabbar/normal/我的.png",
+        "selectedIconPath": "static/tabbar/activated/我的active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "给老板开发酒店预订小程序，需要一个获取定位功能"
+    }
+  },
+  "usingComponents": {}
+}

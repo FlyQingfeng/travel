@@ -1,0 +1,192 @@
+/* 水平间距 */
+/* 水平间距 */
+/* 容器 */
+.container.data-v-63155f31 {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  height: 100vh;
+}
+
+/* 顶部设置和时间 */
+.header.data-v-63155f31 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.body.data-v-63155f31 {
+  width: 748rpx;
+  height: 974rpx;
+}
+.body .profile.data-v-63155f31 {
+  width: 700rpx;
+  height: 128rpx;
+}
+.body .profile .avatar.data-v-63155f31 {
+  width: 128rpx;
+  height: 128rpx;
+}
+.settings-icon.data-v-63155f31 {
+  width: 52rpx;
+  height: 52rpx;
+  padding-left: 24rpx;
+  padding-top: 18rpx;
+}
+
+/* 头像和用户名 */
+.profile.data-v-63155f31 {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.user-info.data-v-63155f31 {
+  width: 238rpx;
+  height: 108rpx;
+  margin-left: 15px;
+}
+.user-info .username.data-v-63155f31 {
+  width: 238rpx;
+  height: 56rpx;
+  font-family: PingFang SC, PingFang SC;
+  font-weight: 500;
+  font-size: 38rpx;
+  color: #222222;
+  line-height: 47rpx;
+  text-align: center;
+  font-style: normal;
+  text-transform: none;
+}
+.user-info .vip-badge.data-v-63155f31 {
+  width: 104rpx;
+  height: 42rpx;
+  padding-left: 1rpx;
+}
+.menu.data-v-63155f31 {
+  width: 746rpx;
+  height: 166rpx;
+  background: #FFFFFF;
+}
+.menu .menu-item.data-v-63155f31 {
+  width: 187rpx;
+  height: 166rpx;
+}
+.menu .menu-item .menu-icon.data-v-63155f31 {
+  width: 52rpx;
+  height: 52rpx;
+}
+.menu .menu-item .menu-text.data-v-63155f31 {
+  width: 96rpx;
+  height: 34rpx;
+  font-family: PingFang SC, PingFang SC;
+  font-weight: 400;
+  font-size: 24rpx;
+  color: #222222;
+  line-height: 28rpx;
+  text-align: center;
+  font-style: normal;
+  text-transform: none;
+}
+.list.data-v-63155f31 {
+  width: 700rpx;
+  height: 520rpx;
+}
+.list .list-item.data-v-63155f31 {
+  width: 700rpx;
+  height: 104rpx;
+  background: #FFFFFF;
+  box-shadow: inset 1rpx 1rpx 2rpx 0rpx #FFFFFF;
+}
+.list .list-item .list-wrapper.data-v-63155f31 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  width: 371rpx;
+  height: 44rpx;
+}
+.list .list-item .list-wrapper .arrow-icon.data-v-63155f31 {
+  width: 40rpx;
+  height: 40rpx;
+}
+.list .list-item .list-wrapper .text-icon.data-v-63155f31 {
+  width: 128rpx;
+  height: 44rpx;
+  font-family: PingFang SC, PingFang SC;
+  font-weight: 400;
+  font-size: 32rpx;
+  color: #222222;
+  line-height: 38rpx;
+  text-align: left;
+  font-style: normal;
+  text-transform: none;
+}
+.list .list-item .list-wrapper .arrowqs.data-v-63155f31 {
+  position: absolute;
+  width: 52rpx;
+  height: 52rpx;
+  padding-left: 640rpx;
+}
+.user-status.data-v-63155f31 {
+  display: flex;
+  align-items: center;
+}
+.vip-badge.data-v-63155f31 {
+  color: white;
+  padding: 2px 5px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.like-icon.data-v-63155f31 {
+  width: 20px;
+  height: 20px;
+}
+
+/* 功能菜单 */
+.menu.data-v-63155f31 {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+.menu-item.data-v-63155f31 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.menu-icon.data-v-63155f31 {
+  width: 30px;
+  height: 30px;
+}
+
+/* 列表项 */
+.list.data-v-63155f31 {
+  background-color: #fff;
+  padding: 10px 0;
+}
+.list-item.data-v-63155f31 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+.arrow-icon.data-v-63155f31 {
+  width: 16px;
+  height: 16px;
+}
+
+/* 底部导航栏 */
+.tab-bar.data-v-63155f31 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  border-top: 1px solid #eee;
+  background-color: #fff;
+}
+.tab-icon.data-v-63155f31 {
+  width: 24px;
+  height: 24px;
+}
+.tab-icon.active.data-v-63155f31 {
+  color: red;
+}

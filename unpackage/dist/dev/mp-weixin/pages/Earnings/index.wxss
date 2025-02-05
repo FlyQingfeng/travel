@@ -1,0 +1,109 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  height: 100vh;
+  background: linear-gradient(to bottom right, red, transparent);
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.time {
+  font-size: 18px;
+  color: #fff;
+}
+.settings-icon {
+  width: 24px;
+  height: 24px;
+}
+.fund-pool {
+  position: relative;
+  text-align: center;
+  background-color: #f44;
+  padding: 20px 0;
+}
+.fund-amount {
+  font-size: 40px;
+  color: #fff;
+}
+.fund-label {
+  font-size: 16px;
+  color: #fff;
+}
+.fund-bg {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  width: 80px;
+  height: 80px;
+}
+.ranking {
+  background-color: #fff;
+  padding: 15px;
+}
+.ranking-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.ranking-list {
+  margin-top: 10px;
+}
+.my-rank {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fee;
+  padding: 10px;
+}
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.stat-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+.accounts {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f8f8f8;
+}
+.account {
+  text-align: center;
+}
+.rights {
+  padding: 20px;
+}
+.rights-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+.promo-image {
+  width: 100%;
+  margin-top: 10px;
+}
+.earnings-chart {
+  padding: 20px;
+}
+.chart-image {
+  width: 100%;
+}
+.tab-bar {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  background-color: #fff;
+}
+.tab-icon {
+  width: 24px;
+  height: 24px;
+}
+.tab-icon.active {
+  color: red;
+}
