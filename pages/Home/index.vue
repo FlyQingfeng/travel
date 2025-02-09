@@ -38,7 +38,7 @@
         <image
           class="locationImg"
           @click="getCurrentLocation"
-          src="../../static/home/当前位置.png"
+          src="../../static/home/currpos.png"
         />
       </view>
 
@@ -94,7 +94,7 @@
       <!-- Hot Store -->
       <view class="hotStore">
         <navigator url="../../pages/foods/index">
-          <image src="../../static/home/推荐门店.png" class="hotStore-left" />
+          <image src="../../static/home/tjmd.png" class="hotStore-left" />
           <text class="hotStore-right">门店名称</text>
         </navigator>
       </view>
@@ -232,7 +232,7 @@ const hotels = ref([
     peoplename: '陈先生',
     sc_count: 5365,
     pic: '../../static/home/avatar.png',
-    sc_pic: '../../static/home/未收藏.png',
+    sc_pic: '../../static/home/uncollected.png',
   },
   {
     id: 2,
@@ -242,7 +242,7 @@ const hotels = ref([
     peoplename: '李小姐',
     sc_count: 8888,
     pic: '../../static/home/avatar.png',
-    sc_pic: '../../static/home/未收藏.png',
+    sc_pic: '../../static/home/uncollected.png',
   },
 ]);
 

@@ -32,26 +32,26 @@
 		"list": [{
 				"pagePath": "pages/Earnings/index",
 				"text": "收益",
-				"iconPath": "static/tabbar/normal/收益.png",
-				"selectedIconPath": "static/tabbar/activated/收益active.png"
+				"iconPath": "static/tabbar/normal/Earnings.png",
+				"selectedIconPath": "static/tabbar/activated/Earnings_active.png"
 			},
 			{
 				"pagePath": "pages/Home/index",
 				"text": "首页",
-				"iconPath": "static/tabbar/normal/首页.png",
-				"selectedIconPath": "static/tabbar/activated/首页active.png"
+				"iconPath": "static/tabbar/normal/Home.png",
+				"selectedIconPath": "static/tabbar/activated/Home_active.png"
 			},
 			{
 				"pagePath": "pages/Orders/index",
 				"text": "订单",
-				"iconPath": "static/tabbar/normal/订单.png",
-				"selectedIconPath": "static/tabbar/activated/订单active.png"
+				"iconPath": "static/tabbar/normal/Orders.png",
+				"selectedIconPath": "static/tabbar/activated/Orders_active.png"
 			},
 			{
 				"pagePath": "pages/Mine/index",
 				"text": "我的",
-				"iconPath": "static/tabbar/normal/我的.png",
-				"selectedIconPath": "static/tabbar/activated/我的active.png"
+				"iconPath": "static/tabbar/normal/Mine.png",
+				"selectedIconPath": "static/tabbar/activated/Mine_active.png"
 			}
 		]
 	},

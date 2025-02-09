@@ -102,7 +102,7 @@
 			endDate: "2024.07.24",
 			price: 160.25,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "待支付",
 		},
 		{
@@ -113,7 +113,7 @@
 			endDate: "2024.07.24",
 			price: 160,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "待成交",
 		},
 		{
@@ -124,7 +124,7 @@
 			endDate: "2024.07.24",
 			price: 160,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "待出行",
 		},
 		{
@@ -135,7 +135,7 @@
 			endDate: "2024.07.24",
 			price: 160,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "退款/售后",
 		},
 		{
@@ -146,7 +146,7 @@
 			endDate: "2024.07.24",
 			price: 160,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "待点评",
 		},
 		{
@@ -157,7 +157,7 @@
 			endDate: "2024.07.24",
 			price: 160,
 			orderTime: "2024-05-05 08:33:12",
-			imgUrl: "../../static/orders/示例图.png",
+			imgUrl: "../../static/orders/example_diagram.png",
 			type: "已完成",
 		},
 	]);

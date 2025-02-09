@@ -2,7 +2,7 @@
   <view class="container">
     <!-- 顶部设置和时间 -->
     <view class="header">      
-      <image class="settings-icon" src="/static/mine/图标_导航栏／设置.png"></image>
+      <image class="settings-icon" src="/static/mine/setting.png"></image>
     </view>
     <view class="body">
 		<!-- 头像和用户名 -->
@@ -43,35 +43,35 @@
 			  <view class="list-wrapper">
 				<image class="arrow-icon" src="/static/mine/jifen.png"></image>
 			  	<text class="text-icon">我的积分</text>
-				<image class="arrowqs" src="../../static/home/跳转箭头.png" mode=""></image>
+				<image class="arrowqs" src="../../static/home/linkArrow.png" mode=""></image>
 			  </view>		    
 		  </navigator>
 		  <navigator class="list-item" url="#">
 		    <view class="list-wrapper">
-				<image class="arrow-icon" src="/static/mine/在线客服.png"></image>
+				<image class="arrow-icon" src="/static/mine/onlineSerice.png"></image>
 				<text class="text-icon">联系客服</text>
-				<image class="arrowqs" src="../../static/home/跳转箭头.png" mode=""></image>
+				<image class="arrowqs" src="../../static/home/linkArrow.png" mode=""></image>
 			</view>
 		  </navigator>
 		  <navigator class="list-item" url="#">
 		    <view class="list-wrapper">
 				<image class="arrow-icon" src="/static/mine/aboutUs.png"></image>
 				<text class="text-icon">关于我们</text>
-				<image class="arrowqs" src="../../static/home/跳转箭头.png" mode=""></image>
+				<image class="arrowqs" src="../../static/home/linkArrow.png" mode=""></image>
 			</view>
 		  </navigator>
 		  <navigator class="list-item" url="#">
 		    <view class="list-wrapper">
 				<image class="arrow-icon" src="/static/mine/feedback.png"></image>
 				<text class="text-icon">意见反馈</text>
-				<image class="arrowqs" src="../../static/home/跳转箭头.png" mode=""></image>
+				<image class="arrowqs" src="../../static/home/linkArrow.png" mode=""></image>
 			</view>
 		  </navigator>
 		  <navigator class="list-item" url="#">
 		    <view class="list-wrapper">
 				<image class="arrow-icon" src="/static/mine/youji.png"></image>
 				<text class="text-icon">达人游记</text>
-				<image class="arrowqs" src="../../static/home/跳转箭头.png" mode=""></image>
+				<image class="arrowqs" src="../../static/home/linkArrow.png" mode=""></image>
 			</view>
 		  </navigator>
 		</view>
