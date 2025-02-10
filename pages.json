@@ -18,9 +18,24 @@
 			}
 		},
 		{
-			"path": "pages/Earnings/index",
-			"style": {
-				"navigationBarTitleText": ""
+			"path" : "pages/Info/Info",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Plan/Plan",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/Service/Service",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
 			}
 		}
 	],
@@ -29,12 +44,7 @@
 		"selectedColor": "#333333",
 		"backgroundColor": "#ffffff",
 		"borderStyle": "black",
-		"list": [{
-				"pagePath": "pages/Earnings/index",
-				"text": "收益",
-				"iconPath": "static/tabbar/normal/Earnings.png",
-				"selectedIconPath": "static/tabbar/activated/Earnings_active.png"
-			},
+		"list": [
 			{
 				"pagePath": "pages/Home/index",
 				"text": "首页",
@@ -42,10 +52,22 @@
 				"selectedIconPath": "static/tabbar/activated/Home_active.png"
 			},
 			{
-				"pagePath": "pages/Orders/index",
-				"text": "订单",
-				"iconPath": "static/tabbar/normal/Orders.png",
-				"selectedIconPath": "static/tabbar/activated/Orders_active.png"
+				"pagePath": "pages/Info/Info",
+				"text": "旅游信息",
+				"iconPath": "static/tabbar/normal/Info.png",
+				"selectedIconPath": "static/tabbar/activated/Info_active.png"
+			},
+			{
+				"pagePath": "pages/Plan/Plan",
+				"text": "行程规划",
+				"iconPath": "static/tabbar/normal/Plan.png",
+				"selectedIconPath": "static/tabbar/activated/Plan_active.png"
+			},
+			{
+				"pagePath": "pages/Service/Service",
+				"text": "AI 服务",
+				"iconPath": "static/tabbar/normal/Service.png",
+				"selectedIconPath": "static/tabbar/activated/Service_active.png"
 			},
 			{
 				"pagePath": "pages/Mine/index",
